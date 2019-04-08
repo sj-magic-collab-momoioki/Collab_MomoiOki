@@ -20,6 +20,8 @@ use colored texture.
 You need to import particle pack. Because uploaded is except that package(...it is too heavy to put on GitHub).  
 Read "sj_note_on_ParticlePack.txt" especially about the structure of dir.  
 
+## PIRATES.unitypackage ##
+
 ## Device ##
 
 
